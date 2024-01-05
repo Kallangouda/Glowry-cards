@@ -9,8 +9,10 @@ Glowry Cards is a lightweight and customizable project that allows you to create
 
 ## Features
 
-- **Responsive Design:** Glowry Cards are designed to be responsive, ensuring a seamless viewing experience across various devices and screen sizes.
+• Glowing Effect: Each card in this project features a mesmerizing glowing effect, adding a touch of elegance to the overall design.
 
-- **Customizable:** Easily customize the appearance and content of the cards to suit your needs. Modify the colors, fonts, and layout to match your project's aesthetics.
+• Responsive Design: The web application is designed to be responsive, ensuring a seamless experience across various devices and screen sizes.
 
-- **Easy Integration:** Integration into your project is straightforward. Just include the necessary HTML, CSS, and JavaScript files, and you're ready to start creating beautiful cards.
+• Customizable Content: Easily customize the content of each card by updating the HTML and CSS files. Add your own text, images, and colors to personalize the cards according to your preferences.
+
+• Smooth Animations: The project incorporates smooth animations using JavaScript to enhance the user interface and create a dynamic visual experience.
